@@ -1,2 +1,9 @@
 hi
 hello
+bye
+goodbye
+
+
+
+CSE470
+Quiz 3
